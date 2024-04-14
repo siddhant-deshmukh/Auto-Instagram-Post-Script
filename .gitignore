@@ -1,0 +1,5 @@
+.env
+env/
+token.txt
+GetToken/localhost.key
+GetToken/localhost.pem

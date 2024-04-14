@@ -1,0 +1,11 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/home/siddhant/Desktop/PareshYelo/Insta-Script/GetToken/localhost.pem",
+    "key": "/home/siddhant/Desktop/PareshYelo/Insta-Script/GetToken/localhost.key",
+    "passphrase": "meow"
+  },
+  "liveServer.settings.host":"localhost"
+}
